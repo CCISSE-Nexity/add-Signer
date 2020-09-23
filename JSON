@@ -1,0 +1,20 @@
+{   
+      "Name" : "EnveloppeJSON",
+      "Signataires" :[
+           {
+            "Ordre" : 1,
+            "Nom" : "Cameron",
+            "Email" : "CCISSE@nexity.fr",
+           },
+           {
+            "Ordre" : 2,
+            "Nom" : "Alexis",
+            "Email" : "cameron.cisse@soprasteria.com",
+           },
+           {
+            "Ordre" : 3,
+            "Nom" : "Fabien",
+            "Email" : "cameron.cisse@caramail.fr",
+           }
+      ]
+}
